@@ -1,13 +1,5 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-
-class Welcome extends CI_Controller {
-
-	Public Function Index()
-	{
-		$This->Load->View('welcome_message');
-	}
-
+Public Function Hal_welcome() {
+      $This->Load->View(Hal_welcome');
 }
 	/**
 	 * Index Page for this controller.
