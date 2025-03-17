@@ -1,12 +1,12 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
-
-	<style type="text/css">
+<!DOCTYPE Html>
+<Html>
+<Head>
+	<Title>Halaman Welcome</Title>
+</Head>
+<Body>
+	<H1>Halaman Welcome</H1>
+</Body>
+</Html>
 
 	::selection { background-color: #f07746; color: #fff; }
 	::-moz-selection { background-color: #f07746; color: #fff; }
