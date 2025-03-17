@@ -1,5 +1,5 @@
 Public Function Hal_welcome() {
-      $This->Load->View(Hal_welcome');
+      $This->Load->View('hal_welcome');
 }
 	/**
 	 * Index Page for this controller.
