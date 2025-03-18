@@ -1,4 +1,4 @@
-<?php
+$Autoload['helper'] = Array('url');
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
