@@ -1,4 +1,4 @@
-<?php
+$Config['base_url'] = 'Http://Localhost/C13/';
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
